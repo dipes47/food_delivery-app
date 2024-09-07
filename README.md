@@ -96,8 +96,14 @@ npm run dev
 
 > [Frontend](https://food-delivery-app-frontend-pml3.onrender.com)
 
-### Some of Screenshot about App
+### Some of Screenshots about App
 
 ---
 
+### Admin
+---
+
+![Screenshot 2024-09-07 131751](https://github.com/user-attachments/assets/a1129b70-7f77-4686-b4d8-aec244a016eb)
+![Screenshot 2024-09-07 131847](https://github.com/user-attachments/assets/1401bc4d-2049-4bfe-96c9-14564830219b)
+![Screenshot 2024-09-07 131923](https://github.com/user-attachments/assets/84aefe2c-4daa-4119-9707-7fb0784cf1ca)
 
