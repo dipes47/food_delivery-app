@@ -37,7 +37,17 @@ npm install
 
 4. We use MongoDB Dtabase
 
-5. To Run Backend use npm run server in Integrated Terminal
+5. You will find the MongoDB Link inside Backend folder, under config folder i.e.
+
+```js
+db.js
+```
+
+6. You can check from the below link that backend is working
+
+> [server link](http://localhost:4000)
+
+7. To Run Backend use npm run server in Integrated Terminal
 
 ```bash
 npm run server
@@ -62,8 +72,26 @@ npm install
 the Sidebar
 6. After that type “npm run dev” in terminal
 
+   
+
 ```bash
 npm run dev
 ```
 
 7. Now Your Project Will Start In Your Default Web Browser
+
+### Deployment Link
+
+---
+
+### Deploy below this follow link
+
+> [Site Link](https://render.com/)
+
+1. To view the Admin Panel 'Lists Data' & 'Order Data' and Home page 'Dishes' data, you have to first run backend server through VS Code above follow instructions and getting refresh, you will view everything follow below links
+
+> [Backend](https://food-delivery-app-backend-8kcx.onrender.com)
+
+> [Admin](https://food-delivery-app-admin-ljtd.onrender.com)
+
+> [Frontend](https://food-delivery-app-frontend-pml3.onrender.com)
