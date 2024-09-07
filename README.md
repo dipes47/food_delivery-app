@@ -107,3 +107,31 @@ npm run dev
 ![Screenshot 2024-09-07 131847](https://github.com/user-attachments/assets/1401bc4d-2049-4bfe-96c9-14564830219b)
 ![Screenshot 2024-09-07 131923](https://github.com/user-attachments/assets/84aefe2c-4daa-4119-9707-7fb0784cf1ca)
 
+### Home Page
+---
+
+![f](https://github.com/user-attachments/assets/12e9dd21-7b26-492d-8876-d0f202214d4c)
+![f1](https://github.com/user-attachments/assets/8970b854-6c2a-4692-8476-0cafc9d60199)
+![f2](https://github.com/user-attachments/assets/143f1867-01dc-49b7-80bc-4cd7411d2bfb)
+
+
+### Cart Page
+
+---
+
+![cart](https://github.com/user-attachments/assets/968640a4-c4a0-401c-95cb-ceec716c47dc)
+
+
+### Checkout Page
+
+---
+
+![check](https://github.com/user-attachments/assets/c135ed09-9e9e-48e3-aeff-df29b6aa4471)
+
+### My Orders Page
+
+---
+
+![order](https://github.com/user-attachments/assets/cd914312-3f74-412c-a857-590f221eb5c1)
+
+
