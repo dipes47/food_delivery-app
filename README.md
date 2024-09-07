@@ -80,11 +80,11 @@ npm run dev
 
 7. Now Your Project Will Start In Your Default Web Browser
 
-### Deployment Link
+### Deployment Links
 
 ---
 
-### Deploy below this follow link
+### Deploy below this following link
 
 > [Site Link](https://render.com/)
 
