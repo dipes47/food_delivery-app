@@ -20,7 +20,7 @@
 
 ---
 
-### Steps To Setup Backend Of The Project
+### ❖ Steps To Setup Backend Of The Project
 
 ---
 
@@ -43,14 +43,27 @@ npm install
 npm run server
 ```
 
-❖ Steps To Run Frontend & Admin Panel Of The Project
+### ❖ Steps To Run Frontend & Admin Panel Of The Project
+
+---
+
 1. Open Project Folder In VS Code
 2. Open Integrated Terminal in project directory
 ○ Right Click on Sidebar > Select “Open In Integrated
 Terminal”
 3. Type “npm install” and press Enter and Wait for
 Installation to be completed (requires Internet)
-4. After Installation You will See ‘node_modules’ Folder in
+
+```bash
+npm install
+```
+
+5. After Installation You will See ‘node_modules’ Folder in
 the Sidebar
-5. After that type “npm run dev” in terminal
-6. Now Your Project Will Start In Your Default Web Browser
+6. After that type “npm run dev” in terminal
+
+```bash
+npm run dev
+```
+
+7. Now Your Project Will Start In Your Default Web Browser
