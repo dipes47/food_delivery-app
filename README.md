@@ -88,7 +88,7 @@ npm run dev
 
 > [Site Link](https://render.com/)
 
-1. To view the Admin Panel 'Lists Data' & 'Order Data' and Home page 'Dishes' data, you have to first run backend server through VS Code above follow instructions and getting refresh, you will view everything follow below links
+1. To view the Admin Panel 'Lists Data' & 'Order Data' and Home page 'Dishes' data, you have to first run server through backend terminal using VS Code follow the above instructions and after getting refresh, you will view everything below following links
 
 > [Backend](https://food-delivery-app-backend-8kcx.onrender.com)
 
