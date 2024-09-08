@@ -1,4 +1,4 @@
-### food_delivery-app
+### MERN Stack food_delivery-app
 ---
 
 ❖ First Install NodeJs ( Ignore If Already Installed)
