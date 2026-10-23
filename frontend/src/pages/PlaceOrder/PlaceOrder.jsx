@@ -65,7 +65,7 @@ const PlaceOrder = () => {
         toast.error("Something Went Wrong");
       }
     } else {
-      let response = await axios.post(url + "/api/order/placecod", orderData, {
+      let response = await axios.post(url + "/api/order/place", orderData, {
         headers: { token },
       });
       if (response.data.success) {
