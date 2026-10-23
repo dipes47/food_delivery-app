@@ -1,5 +1,5 @@
 import { createContext, useEffect, useState } from "react";
-import { food_list, menu_list } from "../assets/assets";
+import { menu_list } from "../assets/assets";
 import axios from "axios";
 export const StoreContext = createContext(null);
 
@@ -45,7 +45,9 @@ const StoreContextProvider = (props) => {
           let itemInfo = food_list.find((product) => product._id === item);
           totalAmount += itemInfo.price * cartItems[item];
         }
-      } catch (error) {}
+      } catch (error) {
+        console.log(error);
+      }
     }
     return totalAmount;
   };
